@@ -1,0 +1,29 @@
+h2 {
+  text-align: center;
+  background: moccasin;
+  width: 50%;
+  margin: 25px auto;
+  padding: 10px;
+}
+
+.container {
+  margin: 10px auto;
+  width: 60%;
+}
+
+.box {
+  background: lavender;
+  font-size: 1.5rem;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.yellow-box {
+  background: yellow;
+}
+
+.red-box {
+  background: red;
+  padding: 25px;
+}
+
